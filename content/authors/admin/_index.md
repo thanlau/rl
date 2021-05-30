@@ -1,7 +1,7 @@
 ---
 title: Ran Liu
 role: PhD of Computer Science
-avatar_filename: img_6322.jpeg
+avatar_filename: avatar.jpg
 bio: My primary research interest includes machine learning, quantum computation
   and malware analysis.
 interests:
