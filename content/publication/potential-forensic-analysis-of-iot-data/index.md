@@ -11,9 +11,11 @@ authors:
   - Timothy R. Leschke
 author_notes:
   - equal contributions
-publication_short: " 2017 IEEE International Conference on Internet of Things
+doi: 10.1109/iThings-GreenCom-CPSCom-SmartData.2017.182
+publication: " 2017 IEEE International Conference on Internet of Things
   (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE
   Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)"
+publication_short: ""
 abstract: Academics and practicing digital forensics experts have previously
   proposed several models for tackling the end to end procedure of investigating
   IoT devices. However, these approaches are still very high level or focuses on
@@ -33,5 +35,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-05-30T16:23:37.196Z
+date: 2021-05-30T16:30:04.080Z
 ---
